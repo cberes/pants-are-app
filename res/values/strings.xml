@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="quickPrompt">Toggle pants status:</string>
+    <string name="app_name">Pants are</string>
+    <string name="onText">ON</string>
+    <string name="offText">OFF</string>
+    <string name="longPrompt">Change pants status:</string>
+</resources>
